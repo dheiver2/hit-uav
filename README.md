@@ -1,6 +1,6 @@
 # Detecção de Pessoas em Imagens Térmicas
 
-Este repositório contém um projeto de detecção de pessoas em imagens térmicas usando YOLOv8. O projeto foi criado com base em dados do Roboflow Universe Projects.
+Este repositório contém um projeto de detecção de pessoas em imagens térmicas usando YOLOv8. O projeto foi desenvolvido pelos SOS IA Voluntários, com base em dados do Roboflow Universe Projects.
 
 ## Instalação
 
@@ -38,3 +38,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
+
+Desenvolvido por [SOS IA Voluntários](https://github.com/sos-ia-voluntarios).
